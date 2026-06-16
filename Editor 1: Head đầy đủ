@@ -1,0 +1,24 @@
+<!-- TODO: Editor 1: Head đầy đủ
+Yêu cầu: Tạo head có meta charset, meta viewport, title và link CSS ngoài.
+Gợi ý: Dựa vào mục 2.1.2.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang Web</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+</body>
+</html>
