@@ -1,0 +1,21 @@
+<!-- TODO: Editor 4: Thụt dòng và div
+Yêu cầu: Tạo cấu trúc div lồng h1, p và thể hiện thụt dòng hợp lý.
+Gợi ý: Gõ mã nhiều dòng, không dồn một dòng.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+   <div>
+      <h1>Tiêu đề chính</h1>
+      <p>Đây là đoạn văn bản trong thẻ div.</p>
+   </div>
+
+</body>
+</html>
