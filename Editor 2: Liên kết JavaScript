@@ -1,0 +1,22 @@
+<!-- TODO: Editor 2: Liên kết JavaScript
+Yêu cầu: Tạo body có h1, p và script src="js/script.js" đặt gần cuối body.
+Gợi ý: Script thường đặt sau nội dung chính.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <h1>Tiêu đề trang</h1>
+ <p>Đây là đoạn văn bản.</p>
+
+ <script src="js/script.js"></script>
+
+</body>
+</html>
