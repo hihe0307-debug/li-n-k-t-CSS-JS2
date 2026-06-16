@@ -1,0 +1,27 @@
+<!-- TODO: Editor 5: Trang kiểm tra tài nguyên
+Yêu cầu: Tạo trang có link CSS, script JS và đoạn hướng dẫn kiểm tra đường dẫn bằng DevTools.
+Gợi ý: Nếu CSS/JS không chạy, kiểm tra href/src và Console.
+Không dán code vào editor chính. Hãy tự gõ, sau đó copy sang editor online để chạy thử. -->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO</title>
+  <!-- TODO: thêm CSS nội bộ hoặc liên kết css/style.css nếu đề yêu cầu -->
+</head>
+<body>
+
+ <h1>Kiểm tra tài nguyên CSS và JavaScript</h1>
+
+ <p>
+   Nếu CSS hoặc JavaScript không hoạt động, hãy mở DevTool (f12),
+   Kiểm tra tab Console và xác nhận đường dẫn trong thuộc tính
+   href hoặc src có chính xác hay không
+ </p>
+
+ <script src="js/script.js"></script>
+
+</body>
+</html>
